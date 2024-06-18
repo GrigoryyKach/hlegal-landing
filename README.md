@@ -30,3 +30,9 @@ During the development of this project, I gained significant experience in:
 - **Responsive Design**: Deepened my understanding of designing and implementing responsive layouts using mobile-first principles.
 - **CSS Grid & Flexbox**: Strengthened my knowledge of CSS Grid and Flexbox for creating complex and adaptable layouts.
 - **Best Practices**: Recognized the importance of using reset stylesheets and organizing code effectively for better project management.
+
+## Author
+
+- Github - [GrygoryyKach](https://github.com/GrigoryyKach)
+- LinkedIn - [Hryhorii Kachurovskyi](https://www.linkedin.com/in/hryhorii-kachurovskyi-b4994b283/)
+- Telegram - [@hrigoriikachurovskyi](https://t.me/hrigoriikachurovskyi)
